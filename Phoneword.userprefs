@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{4163814D-0D0E-480D-AB67-239BBFBA77A7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword/App.xaml.cs">
+    <Files>
+      <File FileName="Phoneword/App.xaml.cs" Line="25" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Phoneword.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.98310450-9D8E-4B29-9C4F-1C15810D38A3" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
