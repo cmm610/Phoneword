@@ -1,0 +1,16 @@
+/Users/mcilnayc/Projects/Phoneword/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mcilnayc/Projects/Phoneword/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/mcilnayc/Projects/Phoneword/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/mcilnayc/Projects/Phoneword/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/mcilnayc/Projects/Phoneword/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/mcilnayc/Projects/Phoneword/iOS/bin/iPhoneSimulator/Debug/Phoneword.iOS.exe.mdb
+/Users/mcilnayc/Projects/Phoneword/iOS/bin/iPhoneSimulator/Debug/Phoneword.iOS.exe
+/Users/mcilnayc/Projects/Phoneword/iOS/obj/iPhoneSimulator/Debug/Phoneword.iOS.exe
+/Users/mcilnayc/Projects/Phoneword/iOS/obj/iPhoneSimulator/Debug/Phoneword.iOS.exe.mdb
+/Users/mcilnayc/Projects/Phoneword/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/mcilnayc/Projects/Phoneword/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/mcilnayc/Projects/Phoneword/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/mcilnayc/Projects/Phoneword/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/mcilnayc/Projects/Phoneword/iOS/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/mcilnayc/Projects/Phoneword/iOS/bin/iPhoneSimulator/Debug/Phoneword.dll
+/Users/mcilnayc/Projects/Phoneword/iOS/bin/iPhoneSimulator/Debug/Phoneword.dll.mdb
