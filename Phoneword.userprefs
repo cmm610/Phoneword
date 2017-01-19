@@ -1,11 +1,12 @@
-﻿<Properties StartupConfiguration="{4163814D-0D0E-480D-AB67-239BBFBA77A7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword/MainPage.xaml.cs">
+﻿<Properties StartupConfiguration="{FC0D8857-179C-430E-8D60-ED194FF75094}|Default">
+  <MonoDevelop.Ide.ItemProperties.Phoneword AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword/DisneyTestActivity.cs">
     <Files>
-      <File FileName="Phoneword/MainPage.xaml.cs" Line="26" Column="23" />
-      <File FileName="Phoneword/PhonewordTranslator.cs" Line="5" Column="41" />
+      <File FileName="Phoneword/MainActivity.cs" Line="35" Column="23" />
+      <File FileName="Phoneword/DisneyTestActivity.cs" Line="20" Column="104" />
+      <File FileName="Phoneword/DisneyTest.cs" Line="58" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Phoneword.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.98310450-9D8E-4B29-9C4F-1C15810D38A3" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

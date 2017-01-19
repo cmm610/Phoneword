@@ -1,14 +1,1 @@
-/Users/mcilnayc/Projects/Phoneword/Phoneword/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
-/Users/mcilnayc/Projects/Phoneword/Phoneword/obj/Debug/Phoneword.App.xaml
-/Users/mcilnayc/Projects/Phoneword/Phoneword/obj/Debug/Phoneword.PhonewordPage.xaml
-/Users/mcilnayc/Projects/Phoneword/Phoneword/obj/Debug/Phoneword.MainPage.xaml
-/Users/mcilnayc/Projects/Phoneword/Phoneword/obj/Debug/Phoneword.App.xaml.g.cs
-/Users/mcilnayc/Projects/Phoneword/Phoneword/obj/Debug/Phoneword.PhonewordPage.xaml.g.cs
-/Users/mcilnayc/Projects/Phoneword/Phoneword/obj/Debug/Phoneword.MainPage.xaml.g.cs
-/Users/mcilnayc/Projects/Phoneword/Phoneword/bin/Debug/Xamarin.Forms.Core.dll
-/Users/mcilnayc/Projects/Phoneword/Phoneword/bin/Debug/Xamarin.Forms.Platform.dll
-/Users/mcilnayc/Projects/Phoneword/Phoneword/bin/Debug/Xamarin.Forms.Xaml.dll
-/Users/mcilnayc/Projects/Phoneword/Phoneword/bin/Debug/Phoneword.dll.mdb
-/Users/mcilnayc/Projects/Phoneword/Phoneword/bin/Debug/Phoneword.dll
-/Users/mcilnayc/Projects/Phoneword/Phoneword/obj/Debug/Phoneword.dll
-/Users/mcilnayc/Projects/Phoneword/Phoneword/obj/Debug/Phoneword.dll.mdb
+/Users/mcilnayc/Projects/Phoneword/Phoneword/obj/Debug/MonoAndroid,Version=v5.0.AssemblyAttribute.cs
