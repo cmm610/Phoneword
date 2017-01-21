@@ -11,13 +11,8 @@
         android:id="@+id/textView1"
         android:gravity="center" />
     <Button
-        android:text="Which Disney Character am I?"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/TranslateButton" />
-    <Button
-        android:text="Call"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/CallButton" />
+        android:id="@+id/DisneyTestButton"
+        android:text="@string/disneyTest" />
 </LinearLayout>

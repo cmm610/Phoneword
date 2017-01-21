@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="Phoneword.Phoneword">
+<manifest 
+	xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:versionCode="1" 
+	android:versionName="1.0" 
+	package="Phoneword.Phoneword">
 	<uses-sdk android:minSdkVersion="23" android:targetSdkVersion="25" />
-	<application android:label="Phoneword"></application>
-	<uses-permission android:name="android.permission.CALL_PHONE" />
+	<application>
+		<activity
+	      android:name=".DisneyTestActivity">
+			<intent-filter>
+				<action android:name=".PutStringArrayListExtra"></action>
+			</intent-filter>
+		</activity>
+	</application>
 </manifest>

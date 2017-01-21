@@ -2,43 +2,43 @@
 using System.Collections.Generic;
 namespace Phoneword {
 	public class DisneyTest {
-		private string[,] questions = {
-			{"expend energy, enjoy groups", "conserve energy, enjoy one-on-one"},
-			{"interpret literally", "look for meaning and possibilities"},
-			{"logical, thinking, questioning", "empathetic, feeling, accommodating"},
-			{"organized, orderly", "flexible, adaptable"},
-			{"more outgoing, think out loud", "more reserved, think to yourself"},
-			{"practical, realistic, experiential", "imaginative, innovative, theoretical"},
-			{"candid, straight forward, frank", "tactful, kind, encouraging"},
-			{"plan, schedule", "unplanned, spontaneous"},
-			{"seek many tasks, public activities, interaction with others", "seek private, solitary activities with quiet to concentrate"},
-			{"standard, usual, conventional", "different, novel, unique"},
-			{"firm, tend to criticize, hold the line", "gentle, tend to appreciate, conciliate"},
-			{"regulated, structured", "easygoing, “live” and “let live”"},
-			{"external, communicative, express yourself", "internal, reticent, keep to yourself"},
-			{"focus on here-and-now", "look to the future, global perspective, “big picture”"},
-			{"tough-minded, just", "tender-hearted, merciful"},
-			{"preparation, plan ahead", "go with the flow, adapt as you go"},
-			{"active, initiate", "reflective, deliberate"},
-			{"facts, things, “what is”", "ideas, dreams, “what could be,” philosophical"},
-			{"matter of fact, issue-oriented", "sensitive, people-oriented, compassionate"},
-			{"control, govern", "latitude, freedom"},
+		private static List<string> questions = new List<string> {
+			"expend energy, enjoy groups", "conserve energy, enjoy one-on-one",
+			//{"interpret literally", "look for meaning and possibilities"},
+			//{"logical, thinking, questioning", "empathetic, feeling, accommodating"},
+			//{"organized, orderly", "flexible, adaptable"},
+			//{"more outgoing, think out loud", "more reserved, think to yourself"},
+			//{"practical, realistic, experiential", "imaginative, innovative, theoretical"},
+			//{"candid, straight forward, frank", "tactful, kind, encouraging"},
+			//{"plan, schedule", "unplanned, spontaneous"},
+			//{"seek many tasks, public activities, interaction with others", "seek private, solitary activities with quiet to concentrate"},
+			//{"standard, usual, conventional", "different, novel, unique"},
+			//{"firm, tend to criticize, hold the line", "gentle, tend to appreciate, conciliate"},
+			//{"regulated, structured", "easygoing, “live” and “let live”"},
+			//{"external, communicative, express yourself", "internal, reticent, keep to yourself"},
+			//{"focus on here-and-now", "look to the future, global perspective, “big picture”"},
+			//{"tough-minded, just", "tender-hearted, merciful"},
+			//{"preparation, plan ahead", "go with the flow, adapt as you go"},
+			//{"active, initiate", "reflective, deliberate"},
+			//{"facts, things, “what is”", "ideas, dreams, “what could be,” philosophical"},
+			//{"matter of fact, issue-oriented", "sensitive, people-oriented, compassionate"},
+			//{"control, govern", "latitude, freedom"},
 		};
-		private int[,] questionMap = new int[4, 5]{
+		private static int[,] questionMap = new int[4, 5]{
 				{0,4,8,12,16},
 				{1,5,9,13,17},
 				{2,6,10,14,18},
-				{3,7,11,15,19},
+				{3,7,11,15,19}
 			};
 
-		private string[,] letterMap = {
+		private static string[,] letterMap = {
 			{"E","I"},
 			{"S","N"},
 			{"T","F"},
 			{"J","P"}
 		};
 
-		private Dictionary<string, string[]> characterMap = new Dictionary<string, string[]> {
+		private static Dictionary<string, string[]> characterMap = new Dictionary<string, string[]> {
 			{"ESTJ", new string[] {"Bagheera", "Woody"}},
 			{"ISTJ", new string[] {"Zazu", "Sebastian"}},
 			{"ESFJ", new string[] {"Snow White", "Aurora"}},
@@ -57,7 +57,8 @@ namespace Phoneword {
 			{"INTP", new string[] {"Owl", "Maurice"}}
 		};
 
-		public static string[,] getQuestions() {
+		//public static string[,] getQuestions() {
+		public static List<string> getQuestions() {
 			return questions;
 		}
 
